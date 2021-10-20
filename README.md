@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=AF7AC5&height=300&section=header&text=dlatldhs%20(Full_Stack)&fontSize=45&fontcolor=FDFEFE)
+![header]("https://capsule-render.vercel.app/api?type=waving&color=AF7AC5&height=300&section=header&text=dlatldhs%20(Full_Stack)&fontSize=45&fontcolor=FDFEFE&width=100%")
 
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlatldhs)](https://github.com/anuraghazra/github-readme-stats)<br>
