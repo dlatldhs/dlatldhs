@@ -1,7 +1,7 @@
 <!-- ![header] 제약되는게 있는 것 같아서 img 태그를 사용해서 해봄 밑에 꺼랑 같은 의미
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=AF7AC5&height=555&section=header&text=dlatldhs%20(Full_Stack)&fontSize=45&fontColor=FDFEFE)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=AF7AC5&height=300&section=header&text=dlatldhs%20(Full_Stack)&fontSize=45&fontColor=FDFEFE)
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=AF7AC5&height=555&section=header&text=dlatldhs%20(Full_Stack)&fontSize=45&fontColor=FDFEFE"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=AF7AC5&height=300&section=header&text=dlatldhs%20(Full_Stack)&fontSize=45&fontColor=FDFEFE"/>
 <h3 align="center">Hi there 👋!</h3>
 <h4 align="center">I'm `I'm Si On.
   
@@ -24,4 +24,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlatldhs&show_icons=true&theme=radical)[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlatldhs)](https://solved.ac/dlatldhs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlatldhs&show_icons=true&theme=radical)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlatldhs)](https://solved.ac/dlatldhs)
