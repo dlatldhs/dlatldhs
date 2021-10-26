@@ -1,8 +1,4 @@
-<!-- ![header] 제약되는게 있는 것 같아서 img 태그를 사용해서 해봄 밑에 꺼랑 같은 의미
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=AF7AC5&height=300&section=header&text=dlatldhs%20(Full_Stack)&fontSize=45&fontColor=FDFEFE)
--->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=AF7AC5&height=300&section=header&text=dlatldhs%20(Full_Stack)&fontSize=45&fontColor=FDFEFE"/>
-
 <h3 align="left">Hi there 👋!</h3>
 <h4 align="left">I'm `I'm Si On.`
   
