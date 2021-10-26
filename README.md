@@ -10,7 +10,10 @@
   
   I am attending Busan Software Meister High School.
   
-  <u>Email - sionzz1713@gmail.com</u> &nbsp;<img src = "https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sionzz1713@gmail.com"></h4><a href="https://github.com/dlatldhs/github-readme-stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dlatldhs&repo=github-readme-stats"></a>
+  <u>Email - sionzz1713@gmail.com</u> &nbsp;<img src = "https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sionzz1713@gmail.com"></h4>
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlatldhs)](https://solved.ac/dlatldhs)
+  
   <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
@@ -24,4 +27,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 </p>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlatldhs)](https://solved.ac/dlatldhs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlatldhs&show_icons=true&theme=radical)
+
