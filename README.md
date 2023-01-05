@@ -1,20 +1,35 @@
-<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=AF7AC5&height=300&section=header&text=SI%20ON&fontSize=45&fontColor=FDFEFE"/>-->
+<div align="center">
 
-<h3 align="center">Hi there 👋!</h3>
-<h4 align="center">
-  <u>Email - sionzz1713@gmail.com</u> &nbsp;<img src = "https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sionzz1713@gmail.com"></h4><!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlatldhs)](https://solved.ac/dlatldhs)-->
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-</p>
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlatldhs&show_icons=true&theme=radical)
---> 
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=IM%20SI%20ON&fontAlign=30&fontSize=30&textBg=true&desc=EMBEDDED%20DEVELOPER&descAlign=60&descAlignY=50)
+
+</div>
+  
+<div align="center">
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlatldhs)](https://solved.ac/dlatldhs)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlatldhs&layout=compact)](https://github.com/dlatldhs/github-readme-stats)</div>
+
+</div>
+<div align="center"><h2>Stack</h2></div>
+<div align="center">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+</div>
+
+
+<a href="https://velog.io/@dlatldhs"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlatldhs)](https://github.com/dlatldhs/velog-readme-stats)
